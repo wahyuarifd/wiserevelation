@@ -8,3 +8,4 @@ Original file is located at
 """
 
 print("Hello World!")
+print("Belajar AI!")
